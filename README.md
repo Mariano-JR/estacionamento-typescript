@@ -2,4 +2,4 @@
 
 ## Estacionamento
 
-Utilizando typescript para criação de um sistema de estacionamento.
+Utilizando **typescript** para criação de um sistema de estacionamento.
