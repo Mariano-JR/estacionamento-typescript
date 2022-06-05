@@ -1,5 +1,5 @@
-#Projeto DIO Typescript
+# Projeto DIO Typescript
 
-##Estacionamento
+## Estacionamento
 
 Utilizando typescript para criação de um sistema de estacionamento.
